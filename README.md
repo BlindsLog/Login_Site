@@ -1,0 +1,1 @@
+Primeira versão de Página de Login, ela não está vinculada a outro lugar ou link pois eu ainda não criei eles, mas possívelmente gostaria de estar vendendo ele com um domínio em mãos, além disso, ele possui uma breve animação.
